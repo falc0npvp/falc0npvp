@@ -77,10 +77,6 @@ Experiencia en:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=falc0npvp&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falc0npvp&layout=compact&langs_count=8&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=falc0npvp&theme=tokyonight)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=falc0npvp&theme=tokyo-night)](https://github.com/falc0npvp)
