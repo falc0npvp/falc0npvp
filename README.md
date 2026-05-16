@@ -1,16 +1,107 @@
-## Hi there 👋
+# Hola, soy Juan Angel 👋
 
-<!--
-**falc0npvp/falc0npvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licenciado en Gestión de Capital Humano con experiencia en relaciones laborales y desarrollo de software empresarial.
 
-Here are some ideas to get you started:
+Actualmente desarrollo plataformas web enfocadas en evaluación de talento, automatización y soluciones administrativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 💼 Experiencia en Recursos Humanos y relaciones laborales industriales
+- 🌐 Desarrollo de plataformas web empresariales
+- 🧠 Interés en HR Tech, automatización y psicometría
+- ⚙️ Desarrollo fullstack con Next.js, Java, PHP y MySQL
+- 📊 Enfocado en soluciones tecnológicas aplicadas a empresas
+- 🏗️ Creador de Evaluacore
+
+---
+
+## 🌟 Proyecto Destacado
+
+### Evaluacore
+
+Plataforma web enfocada en evaluaciones psicométricas y gestión de talento para empresas.
+
+🔗 https://www.evaluacore.com
+
+### Funcionalidades principales
+
+- Evaluaciones psicométricas online
+- Gestión de candidatos
+- Panel administrativo
+- Resultados automatizados
+- Plataforma web responsive
+- Sistema orientado a procesos de RH
+
+---
+
+## 💻 Tecnologías
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- HTML5
+- CSS3
+
+### Backend
+- Java
+- PHP
+- Node.js
+
+### Base de datos
+- MySQL
+
+### Herramientas
+- Git
+- GitHub
+- Linux
+- VS Code
+
+---
+
+## 💼 Experiencia Profesional
+
+### Coordinador de Recursos Humanos
+Experiencia en:
+
+- Reclutamiento y selección
+- Relaciones laborales
+- Disciplina progresiva
+- Atención a personal operativo
+- Procesos administrativos de RH
+- Gestión de talento
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=falc0npvp&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falc0npvp&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=falc0npvp&theme=tokyonight)
+
+---
+
+## 📌 Objetivos
+
+Actualmente continúo desarrollando proyectos enfocados en:
+
+- HR Tech
+- Plataformas empresariales
+- Automatización
+- Software administrativo
+- Soluciones web escalables
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/juanangelramirezrodriguez
+- Email: juuan.anngel@gmail.com
+
+---
+
+⭐ Siempre buscando aprender, construir y mejorar soluciones tecnológicas útiles para empresas.
